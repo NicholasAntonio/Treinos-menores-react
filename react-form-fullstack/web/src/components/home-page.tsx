@@ -14,8 +14,8 @@ export default function HomePage() {
           style={{ height: 160, width: 600 }} className=" text-3xl"
         >
           <Box p="2" pr="8">
-            <Heading size="4" mb="2" trim="start">
-              Principles of the typographic craft
+            <Heading size="6" mb="2" trim="start">
+              Treino de formulários e autenticações react
             </Heading>
             <Flex direction="column" gap="4">
               <Text as="p">
